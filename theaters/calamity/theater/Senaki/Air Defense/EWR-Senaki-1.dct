@@ -6,4 +6,6 @@ priority = 10
 regenerate = false
 desc = [[%LOCATIONMETHOD% an EW Radar 3 miles to the east of Sukhumi-Babushara airbase.
 
-Primary Objective: Destroy the EW radar dome.]]
+Primary Objective: Destroy the EW radar dome.
+
+Threats: SA8, SA9, AAA]]
